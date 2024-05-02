@@ -20,12 +20,6 @@ const InformationApps = [
       image:
         "https://icon-library.com/images/newspaper-app-icon/newspaper-app-icon-4.jpg",
       link: "https://newsdonkey.netlify.app/",
-    },
-    {
-      key:11,
-      title: "Note Taking App",
-      image: "https://assets-global.website-files.com/5f7ece8a7da656e8a25402bc/631f32ee984371cb97df4ce2_How%20to%20take%20notes%20from%20a%20textbook.png",
-      link: "https://note-taking-app-weld.vercel.app/"
     }
   ];
   
